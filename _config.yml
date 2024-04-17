@@ -101,6 +101,6 @@ theme: solitude
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-type: git
-repo: https://gitee.com/kkkh/kkkh.github.io  
-branch: master
+        type: git
+        repo: git@github.com:kkkh/kkkh.github.io.git
+        branch: main
